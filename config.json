@@ -1,0 +1,10 @@
+{
+    "keywords": [
+        "restaurants"
+    ],
+    "output_path": "data/output.json",
+    "min_reviews": 0,
+    "max_reviews": 10000,
+    "min_rating": 1,
+    "max_rating": 5
+}
